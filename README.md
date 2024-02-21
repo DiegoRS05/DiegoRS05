@@ -23,6 +23,8 @@
 
 <br clear="both">
 
+![snake gif](https://github.com/DiegoRS05/DiegoRS05/blob/output/github-contribution-grid-snake.gif)
+
 <img src="https://raw.githubusercontent.com/DiegoRS05/DiegoRS05/output/snake.svg" alt="Snake animation" />
 
 ###
