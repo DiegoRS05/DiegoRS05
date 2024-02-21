@@ -21,7 +21,7 @@
 
 ###
 
-
+<br clear="both">
 
 ![snake gif](https://github.com/DiegoRS05/DiegoRS05/blob/output/github-contribution-grid-snake.gif)
 
