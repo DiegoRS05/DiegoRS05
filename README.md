@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Diego and I'm a Informatics student, from Spain.</h2>
+<h2 align="left">Hi 👋! My name is Diego and I'm a Informatics Engineering College Student, from Spain.</h2>
 
 ###
 
